@@ -1,6 +1,6 @@
 <?php 
 class Contact{
-    private $host="localhost:3300";
+    private $host="localhost";
     private $user="root";
     private $pass="";
     private $db="contact";
